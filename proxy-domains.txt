@@ -110,6 +110,8 @@ freeyoutubeproxy.net
 listentoyoutube.com
 onlineyoutube.com
 withyoutube.com
+ytimg.com
+imrworldwide.com
 youtube-nocookie.com
 youtube.com
 youtubecn.com
@@ -131,3 +133,5 @@ googlesource.com
 googledrive.com
 twitter.com
 facebook.com
+bbc.co.uk
+linwd.net
